@@ -1,0 +1,3 @@
+ASSIGNMENT,A1,OOP,20-05-2026,Pdf,10,false
+EXAM,Mid-Term,OOP,28-04-2026,Hall#5,1 hour,Mids,true
+ASSIGNMENT,A4,Discrete Structures,05-05-2026,Hand-written,20,true

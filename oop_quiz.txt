@@ -1,0 +1,113 @@
+SUBJECT: OOP
+Q: What does OOP stand for?
+A: Object Oriented Programming
+B: Object Oriented Processing
+C: Ordered Object Programming
+D: None of the above
+CORRECT: A
+
+
+SUBJECT:OOP
+Q: Which keyword is used for inheritance in Java?
+A: implements
+B: super
+C: extends
+D: inherits
+CORRECT: C
+
+SUBJECT:OOP
+Q: What is encapsulation?
+A: Creating multiple objects
+B: Hiding data using private fields and getters/setters
+C: When a method calls itself
+D: A class that cannot be instantiated
+CORRECT: B
+
+SUBJECT: OOP
+Q: What type of method must be implemented by subclasses?
+A: Static method
+B: Private method
+C: Abstract method
+D: Final method
+CORRECT: C
+
+SUBJECT: DSA
+Q: Which data structure uses FIFO principle?
+A: Stack
+B: Queue
+C: Tree
+D: Graph
+CORRECT: B
+
+SUBJECT: DSA
+Q: Which structure uses LIFO principle?
+A: Queue
+B: Array
+C: Stack
+D: Linked List
+CORRECT: C
+
+SUBJECT: CN
+Q: What does HTTP stand for?
+A: Hyper Text Transfer Protocol
+B: High Text Transfer Protocol
+C: Hyper Transfer Text Protocol
+D: None
+CORRECT: A
+
+SUBJECT: CN
+Q: Which device is used to connect networks?
+A: CPU
+B: Router
+C: RAM
+D: Compiler
+CORRECT: B
+
+SUBJECT: DB
+Q: Which language is used to query databases?
+A: HTML
+B: SQL
+C: Python
+D: Java
+CORRECT: B
+
+SUBJECT: DB
+Q: What does DBMS stand for?
+A: Data Base Management System
+B: Digital Base Management System
+C: Data Binary Management System
+D: None
+CORRECT: A
+
+
+SUBJECT: OS
+Q: Which is NOT an operating system?
+A: Linux
+B: Windows
+C: Oracle
+D: MacOS
+CORRECT: C
+
+SUBJECT: OS
+Q: Which is NOT an operating system?
+A: Linux
+B: Windows
+C: Oracle
+D: MacOS
+CORRECT: C
+
+SUBJECT: MATH
+Q: What is 2 + 2 * 2?
+A: 6
+B: 8
+C: 4
+D: 10
+CORRECT: A
+
+SUBJECT: MATH
+Q: What is the binary of 5?
+A: 101
+B: 110
+C: 111
+D: 100
+CORRECT: A
